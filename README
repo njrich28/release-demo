@@ -21,6 +21,12 @@ Controllers
   Shows how to inject a component into a controller and use the component when
   handling requests.
 
+- VersionController.scala:
+
+  An API for retrieving the project version number and git head commit sha. Annotated with Swagger documentation.
+
+  http://localhost:9000/assets/lib/swagger-ui/dist/index.html?url=/swagger.json#!/default/index
+
 Components
 ==========
 
